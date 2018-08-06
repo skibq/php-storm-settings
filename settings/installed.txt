@@ -1,5 +1,0 @@
-BashSupport
-ImportCost
-Mongo Plugin
-org.editorconfig.editorconfigjetbrains
-quokka.js
